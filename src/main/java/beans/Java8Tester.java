@@ -1,4 +1,4 @@
-package beans;
+/*package beans;
 
 
 
@@ -27,6 +27,8 @@ public  class Java8Tester {
 	      //with parenthesis
 	      GreetingService greetService1 = message ->
 	      System.out.println("Hello " + message);
+	      
+	      
 			
 	      //without parenthesis
 	      GreetingService greetService2 = (message) ->
@@ -48,3 +50,4 @@ public  class Java8Tester {
 	      return mathOperation.operation(a, b);
 	   }
 	}
+*/
